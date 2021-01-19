@@ -1,9 +1,0 @@
-I am interested in AI and Deep learning. I have been exploring these two fields although I'm a beginner.
-AI is a computer program. How we human beings can learn by observing things, similarly machines too learn from surroundings and are able to think on their own.
-
-Normally when we write a program in the system, it gives us output but AI is not like that. When it does things repeatedly it will think and do that work in a better way, in lesser time! What if something like this machine starting to think by itself and learn more things how would be our future
-
-Now you may ask – so what difference does it bring to my life! I would like to tell you all that in daily life we are using AI all the time.
-
-I was typing this answer my computer system all the time was recommending how to complete my sentences even before each sentence was completed.Another common example is Gmail. My Gmail account emails are categorized as primary, social, promotional. Who is behind that? It is none other than machine learning. It also filters spam emails and sends me a notification when I receive a mail of an ad. Machine learning detects spam emails by recognizing and understanding the coding patterns.
-it is similar to how our brain works. In our brain, 1 neuron is connected with 1000 different another type of neurons. Similarly, AI connects through the neural network with different types of neural networks and it is connected around the world. In this way, it started thinking by itself without the help of human and started combat with humans. For example, recently google deep mind developed alpha go ai world’s toughest game go’s grandmasters were defeated by ai. How did this happen? Well, Alpha Go played itself some thousands and thousands of times and became expert and now? Now no human can defeat it. It has started writing articles, poems and composes music as well.
